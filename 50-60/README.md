@@ -1,4 +1,4 @@
-## 2010's Researcher Log
+## 1950's Researcher Log
 __Researcher:__ Unknown  
 
 ### Logs

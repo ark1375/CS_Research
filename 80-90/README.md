@@ -1,4 +1,4 @@
-## 2010's Researcher Log
+## 1980's Researcher Log
 __Researcher:__ Aida Naderi  
 
 ### Logs
