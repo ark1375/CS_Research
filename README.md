@@ -2,7 +2,7 @@
 Impacts of Computer Science on Industries in the past 70 years.
 
 ## Guide to Use this Repository
-1. Make sure to **PULL** before commiting anything to your local repository. This will minimize the posiblity of confliction in repo.
+1. Make sure to **PULL** before even commiting anything to your local repository. This will minimize the posiblity of conflict in repo.
     - Use `git pull origin main` for pulling the repo.
 
 2. Make sure to **PUSH** every commit that you made.
