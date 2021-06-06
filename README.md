@@ -1,8 +1,13 @@
 # CS_Research
 Impacts of Computer Science on Industries in the past 70 years.
 
+## Project State
+Finding research materials based on different decades.  
+For now, the research is focusing on the years 1970 - 2020. 
+__Current Deadline:__ 5/Tir/1400 or June 26/
+
 ## Guide to Use this Repository
-1. Make sure to **PULL** before even commiting anything to your local repository. This will minimize the posiblity of conflict in repo.
+1. Make sure to **PULL** before even committing anything to your local repository. This will minimize the possibility of conflict in repo.
     - Use `git pull origin main` for pulling the repo.
 
 2. Make sure to **PUSH** every commit that you made.
