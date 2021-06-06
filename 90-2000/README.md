@@ -1,5 +1,5 @@
 ## 2010's Researcher Log
-__Researcher:__ Alireza Khalilian  
+__Researcher:__ Nava Vazirpanah  
 
 ### Logs
 You can write your own logs here.
