@@ -2,9 +2,11 @@
 Impacts of Computer Science on Industries in the past 70 years.
 
 ## Project State
-Finding research materials based on different decades.  
-For now, the research is focusing on the years 1970 - 2020. 
-__Current Deadline:__ 5/Tir/1400 or June 26/
+&#129046; Finding research materials based on different decades.  
+&#129046; For now, the research is focusing on the years 1970 - 2020.  
+<br>
+__Current Deadline:__  
+__*5 Tir*__ or __June 26__
 
 ## Guide to Use this Repository
 1. Make sure to **PULL** before even committing anything to your local repository. This will minimize the possibility of conflict in repo.
